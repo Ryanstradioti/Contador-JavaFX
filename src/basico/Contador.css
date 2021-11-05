@@ -1,0 +1,33 @@
+.conteudo {
+	-fx-background-color: black;	
+	-fx-font-family: "Crimson+Pro";
+	
+}
+
+.titulo{
+	-fx-text-fill: #8000ff;
+	-fx-font-size: 36px;
+}
+
+
+.numero{
+	-fx-text-fill: #ffffff;
+	-fx-font-size: 30px;
+	}
+	
+.botoes{
+	-fx-background-color: #fff;	
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 24px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde{
+	-fx-text-fill: #00ff40;
+}
+
+.vermelha{
+	-fx-text-fill: #ff0080;
+}
